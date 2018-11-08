@@ -1,0 +1,12 @@
+﻿body {
+ 
+}
+.container {
+    background: url(https://2.bp.blogspot.com/-yipfvuCaZVw/VBmeyJlbHTI/AAAAAAAAWvU/yEyEYLneYB0/s1600/IMG_8439.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.custom{
+    background: rgba(255, 255, 255, 0.5);
+}
